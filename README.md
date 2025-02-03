@@ -2,7 +2,7 @@ Developed a comprehensive campus placement analysis tool. Conducted in-depth EDA
 
 This description emphasizes the key aspects of your project, including:
 
-Purpose: Analyzing campus placements
+Purpose: Analyzing campus placements.
 
 Methodology: EDA, regression, classification.
 
