@@ -6,4 +6,4 @@ Purpose: Analyzing campus placements
 
 Methodology: EDA, regression, classification.
 
-Outcome: Identifying best-fit models, data analysis, and insights of the dataset
+Outcome: Identifying best-fit models, data analysis, and insights of the dataset.
